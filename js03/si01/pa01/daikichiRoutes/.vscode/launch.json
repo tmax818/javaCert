@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DaikichiRoutesApplication<daikichi-routes>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "co.tylermaxwell.daikichiroutes.DaikichiRoutesApplication",
+            "projectName": "daikichi-routes",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
