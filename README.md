@@ -36,6 +36,8 @@
 - [Hello World](./js03/si01/helloWorld/README.md)
 - [Daikichi Routes](./js03/si01/pa01/daikichiRoutes/README.md)
 - [Hello Human](./js03/si01/pa01/helloHuman/README.md)
+- [Daikichi Path Variables](./js03/si01/ca01/daikichiPathVars/README.md)
+- [Hopper's Receipt](./js03/si01/pa01/hoppersReceipt/README.md)
 
 
 ### Spring MVC
