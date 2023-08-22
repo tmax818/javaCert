@@ -30,6 +30,7 @@
 - [BankAccount](./joop01/joop01/ca/bankAccount/README.md)
 
 ### Java OOP Advanced
+- [devices](./joop01/joopAdv02/pa/devices/README.md)
 - [zookeeper](./joop01/joopAdv02/ca/zookeeper/README.md)
 
 ## Java Spring
@@ -45,6 +46,8 @@
 
 
 ### Spring MVC
+
+- [MVC design pattern](./js03/smvc02/mvcDesignPattern/README.md)
 
 ### Adding 1:m
 
