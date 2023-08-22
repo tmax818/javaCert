@@ -28,6 +28,8 @@
 
 ### Java OOP
 - [BankAccount](./joop01/joop01/ca/bankAccount/README.md)
+- [careSoft Interfaces](./joop01/joop01/ca/careSoftInterfaces/README.md)
+- 
 
 ### Java OOP Advanced
 - [devices](./joop01/joopAdv02/pa/devices/README.md)
