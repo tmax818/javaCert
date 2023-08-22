@@ -30,6 +30,7 @@
 - [BankAccount](./joop01/joop01/ca/bankAccount/README.md)
 
 ### Java OOP Advanced
+- [zookeeper](./joop01/joopAdv02/ca/zookeeper/README.md)
 
 ## Java Spring
 
